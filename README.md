@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="{BadgeURLHere}" />
-<a url="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
