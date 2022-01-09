@@ -1,5 +1,7 @@
-<p align="center"><h1>👋 Hi, I’m Mattia, from Italy!</h1></p>
-<li> prova </li>
+<p align="center"><h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1></p>
+<li>Computer Science at University of Bary "Aldo Moro", Italy [7/180 CFU]</li>
+<li>Passionate about web and software development</li>
+<li>Hobby: 🏐⚽🕹 </li>
 <p align="center">
 <a href="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
