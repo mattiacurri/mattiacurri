@@ -19,6 +19,6 @@ Currently learning:
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 
 
- <img src="https://github-readme-stats.vercel.app/api?username={FrumpyGoose180}" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={FrumpyGoose180}" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user={FrumpyGoose180}" />
+ <img src="https://github-readme-stats.vercel.app/api?username=FrumpyGoose180" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrumpyGoose180" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrumpyGoose180" />
