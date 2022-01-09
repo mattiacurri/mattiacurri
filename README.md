@@ -5,9 +5,7 @@
 <a href="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://www.reddit.com/user/FGoose180"> <img src="{BadgeURLHere}" /></a>
-<a href="https://www.reddit.com/user/FGoose180"> <img src="{BadgeURLHere}" /></a>
-<a href="https://www.reddit.com/user/FGoose180"> <img src="{BadgeURLHere}" /></a>
+<a href="https://www.reddit.com/user/FGoose180"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   </p>
   <p align="center">
   Stack:
