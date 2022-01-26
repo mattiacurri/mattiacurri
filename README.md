@@ -1,9 +1,11 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
 <li>Computer Science at University of Bari "Aldo Moro", Italy [16/180 CFU]</li>
-<h2> Exam Marks </h2>
-<li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems): <i>3030</i>
 <li>Passionate about web and software development</li>
 <li>Hobby: 🏐⚽🕹💸 </li>
+
+<h2> Exam Marks </h2>
+<li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
+
 <h2> Professional use: </h2>
 
 <a href="https://www.linkedin.com/in/mattiacurri/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
