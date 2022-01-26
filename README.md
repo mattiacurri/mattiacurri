@@ -1,5 +1,7 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
 <li>Computer Science at University of Bari "Aldo Moro", Italy [16/180 CFU]</li>
+<h2> Exam Marks </h2>
+<li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems): <i>3030</i>
 <li>Passionate about web and software development</li>
 <li>Hobby: 🏐⚽🕹💸 </li>
 <h2> Professional use: </h2>
