@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
 <li>Computer Science at University of Bari "Aldo Moro", Italy [28/180 CFU]</li>
-<li>Passionate about web and software development</li>
+<li>Passionate about web, software development and blockchain</li>
 <li>Hobby: 🏐⚽🕹💸 </li>
 
 <h2> Exam Marks </h2>
