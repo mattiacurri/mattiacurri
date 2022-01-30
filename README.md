@@ -1,10 +1,11 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
-<li>Computer Science at University of Bari "Aldo Moro", Italy [16/180 CFU]</li>
+<li>Computer Science at University of Bari "Aldo Moro", Italy [28/180 CFU]</li>
 <li>Passionate about web and software development</li>
 <li>Hobby: 🏐⚽🕹💸 </li>
 
 <h2> Exam Marks </h2>
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
+<li> Programmazione (Programming) [12 CFU] : <i>25/30</i> (NOTE: this course involves use of pseudocode) </li>
 
 <h2> Professional use: </h2>
 
