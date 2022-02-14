@@ -5,7 +5,8 @@
 
 <h2> Exam Marks </h2>
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
-<li> Programmazione (Programming) [12 CFU] : <i>25/30</i> (NOTE: this course involves use of pseudocode instead of code) </li>
+<li> Programmazione (Programming) [12 CFU]: <i>25/30</i> (NOTE: this course involves use of pseudocode instead of code) </li>
+<li> Matematica Discreta (Discrete Math) [9 CFU]: <i>30/30</i></li> 
 
 <h2> Professional use: </h2>
 
