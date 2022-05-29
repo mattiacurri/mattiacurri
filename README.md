@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
 <li>Computer Science at University of Bari "Aldo Moro", Italy [30/180 CFU]</li>
-<li>Passionate about web, software development and blockchain</li>
-<li>Hobby: 🏐⚽🕹💸 </li>
+<li>Passionate about software development. Willingness to learn new technologies </li>
+<li>Hobby: 🏐⚽🕹 </li>
 
 <h2> Exam Marks </h2>
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
