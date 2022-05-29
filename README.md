@@ -32,6 +32,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mattiacurri&count_private=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiacurri&langs_count=5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiacurri&langs_count=3" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiacurri" />
 
