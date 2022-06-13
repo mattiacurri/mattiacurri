@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
-<li>Computer Science at University of Bari "Aldo Moro", Italy [30/180 CFU]</li>
+<li>Computer Science at University of Bari "Aldo Moro", Italy [39/180 CFU]</li>
 <li>Passionate about software development. Willingness to learn new technologies </li>
 <li>Hobby: 🏐⚽🕹 </li>
 
@@ -7,6 +7,7 @@
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
 <li> Programmazione (Programming) [12 CFU]: <i>25/30</i> </li>
 <li> Matematica Discreta (Discrete Math) [9 CFU]: <i>30/30</i></li> 
+<li> Linguaggi di Programmazione (Programming Languages) [9 CFU]: <i> 28/30 </i> </li>
 
 <h2> Professional use: </h2>
 
