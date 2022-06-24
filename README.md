@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
-<li>Computer Science at University of Bari "Aldo Moro", Italy [39/180 CFU]</li>
+<li>Computer Science at University of Bari "Aldo Moro", Italy [Actual GPA: 3,69]</li>
 <li>Passionate about software development. Willingness to learn new technologies </li>
 <li>Hobby: 🏐⚽🕹 </li>
 
