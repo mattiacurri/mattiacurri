@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
-<li>Computer Science at University of Bari "Aldo Moro", Italy [Actual GPA: 3,69]</li>
+<li>Computer Science at University of Bari "Aldo Moro", Italy [Actual GPA: 3.56]</li>
 <li>Passionate about software development. Willingness to learn new technologies </li>
 <li>Hobby: 🏐⚽🕹 </li>
 
@@ -8,6 +8,7 @@
 <li> Programmazione (Programming) [12 CFU]: <i>25/30</i> </li>
 <li> Matematica Discreta (Discrete Math) [9 CFU]: <i>30/30</i></li> 
 <li> Linguaggi di Programmazione (Programming Languages) [9 CFU]: <i> 28/30 </i> </li>
+<li> Analisi Matematica (Calculus) [9 CFU]: <i> 24/30 </i> </li>
 
 <h2> Professional use: </h2>
 
