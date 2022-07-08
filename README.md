@@ -31,7 +31,7 @@
 <h2> Stack: </h2>
 <a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=mattiacurri&count_private=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiacurri" />
 
