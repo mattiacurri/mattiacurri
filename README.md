@@ -4,13 +4,15 @@
 <li>Hobby: 🏐⚽🕹 </li>
 
 <h2> Exam Marks </h2>
+<ul>
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
 <li> Programmazione (Programming) [12 CFU]: <i>25/30</i> </li>
 <li> Matematica Discreta (Discrete Math) [9 CFU]: <i>30/30</i></li> 
 <li> Linguaggi di Programmazione (Programming Languages) [9 CFU]: <i> 28/30 </i> </li>
 <li> Analisi Matematica (Calculus) [9 CFU]: <i> 24/30 </i> </li>
 <li> Laboratorio di Informatica (IT Lab) [6 CFU]: <i> 30/30 </li>
-<li><li>Project: <a href="https://github.com/mattiacurri/battaglia-navale">BattleShip Enhanced Edition</li></li>
+<li>Project: <a href="https://github.com/mattiacurri/battaglia-navale">BattleShip Enhanced Edition</li>
+</ul>
 
 <h2> Professional use: </h2>
 
