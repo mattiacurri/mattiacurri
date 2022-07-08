@@ -11,8 +11,7 @@
 <li> Linguaggi di Programmazione (Programming Languages) [9 CFU]: <i> 28/30 </i> </li>
 <li> Analisi Matematica (Calculus) [9 CFU]: <i> 24/30 </i> </li>
 <li> Laboratorio di Informatica (IT Lab) [6 CFU]: <i> 30/30 
-<ul><li>Project: <a href="https://github.com/mattiacurri/battaglia-navale">BattleShip Enhanced Edition</li></ul>
-
+<ul>Project: <a href="https://github.com/mattiacurri/battaglia-navale">BattleShip Enhanced Edition</ul></li>
 
 <h2> Professional use: </h2>
 
