@@ -22,6 +22,7 @@
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <br>
 
+<h2> Github Stats: </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=mattiacurri&count_private=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiacurri" />
 
