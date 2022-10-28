@@ -22,11 +22,6 @@
 <a href="https://twitter.com/FrumpyGoose180"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCmE6QMzoIy8QZ7zCJUpnISA"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-
-<h2>See my progress 👇:</h2>
-
-<a href="https://leetcode.com/FrumpyGoose/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-
 <h2> Stack: </h2>
 <a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
