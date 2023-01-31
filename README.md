@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Mattia, from Italy! 👨‍💻</h1>
 <li>Computer Science at University of Bari "Aldo Moro", Italy [Actual GPA: 3.61]</li>
 
-<h2> Exam Marks <i>[Actual GPA: 3.61]</i></h2>
+<h2> Exam Marks <i>[Actual GPA: 3.7]</i></h2>
 <li> Programmazione (Programming) [12 CFU]: <i>25/30</i> </li>
 <li> Algoritmi e strutture dati (Algorithms and Data Structures) [9 CFU]: <i> 30L/30 </i></li>
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
