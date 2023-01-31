@@ -9,6 +9,8 @@
 <li> Linguaggi di Programmazione (Programming Languages) [9 CFU]: <i> 28/30 </i> </li>
 <li> Analisi Matematica (Calculus) [9 CFU]: <i> 24/30 </i> </li>
 <li> Laboratorio di Informatica (IT Lab) [6 CFU]: <i> 30/30 </i></li>
+<li> Fondamenti di Fisica (Physics) [6 CFU]: <i> 27/30 </i></li>
+<li> Algoritmi e strutture dati (Algorithms and Data Structures) [9 CFU]: <i> 30L/30 </i></li>
 <ul><li>Project: <a href="https://github.com/Stefano-Labianca/battaglia-navale">BattleShip Enhanced Edition</a></li></ul>
 
 <h2> Professional use: </h2>
