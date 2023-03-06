@@ -11,6 +11,8 @@
 <li> Laboratorio di Informatica (IT Lab) [6 CFU]: <i> 30/30 </i></li>
 <ul><li>Project: <a href="https://github.com/Stefano-Labianca/battaglia-navale">BattleShip Enhanced Edition</a></li></ul>
 <li> Fondamenti di Fisica (Physics) [6 CFU]: <i> 27/30 </i></li>
+<li> Calcolo delle probabilità e statistica (Statistics) [6 CFU]: <i> 21/30 </i></li>
+<li> Basi di dati (Database Fundamentals) [9 CFU]: <i> 30L/30 </i></li>
 
 <h2> Stack: </h2>
 <a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a>
