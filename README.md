@@ -7,11 +7,8 @@
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
 <li> Matematica Discreta (Discrete Math) [9 CFU]: <i>30/30</i></li> 
 <li> Linguaggi di Programmazione (Programming Languages) [9 CFU]: <i> 28/30 </i> </li>
-<li> Analisi Matematica (Calculus) [9 CFU]: <i> 24/30 </i> </li>
 <li> Laboratorio di Informatica (IT Lab) [6 CFU]: <i> 30/30 </i></li>
 <ul><li>Project: <a href="https://github.com/Stefano-Labianca/battaglia-navale">BattleShip Enhanced Edition</a></li></ul>
-<li> Fondamenti di Fisica (Physics) [6 CFU]: <i> 27/30 </i></li>
-<li> Calcolo delle probabilità e statistica (Statistics) [6 CFU]: <i> 21/30 </i></li>
 <li> Basi di dati (Database Fundamentals) [9 CFU]: <i> 30L/30 </i></li>
 
 <h2> Stack: </h2>
