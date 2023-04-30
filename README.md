@@ -2,11 +2,8 @@
 <li>I'm a Computer Science student enrolled at University of Bari "Aldo Moro", Italy</li>
 
 <h2> Exam Marks <i>[Actual GPA: 3.7]</i></h2>
-<li> Programmazione (Programming) [12 CFU]: <i>25/30</i> </li>
 <li> Algoritmi e strutture dati (Algorithms and Data Structures) [9 CFU]: <i> 30L/30 </i></li>
 <li> Architettura degli Elaboratori e Sistemi Operativi (Computer Architecture and Operating Systems) [9 CFU]: <i>30/30</i> </li>
-<li> Matematica Discreta (Discrete Math) [9 CFU]: <i>30/30</i></li> 
-<li> Linguaggi di Programmazione (Programming Languages) [9 CFU]: <i> 28/30 </i> </li>
 <li> Laboratorio di Informatica (IT Lab) [6 CFU]: <i> 30/30 </i></li>
 <ul><li>Project: <a href="https://github.com/Stefano-Labianca/battaglia-navale">BattleShip Enhanced Edition</a></li></ul>
 <li> Basi di dati (Database Fundamentals) [9 CFU]: <i> 30L/30 </i></li>
