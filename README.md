@@ -1,4 +1,4 @@
-<h1>Hi, I’m Mattia, from Italy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /></h1>
+<h1>Hi, I’m Mattia! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40" /></h1>
 <li>I'm a Computer Science student enrolled at the University of Bari "Aldo Moro", Italy</li>
 
 <h2>Stack</h2>
