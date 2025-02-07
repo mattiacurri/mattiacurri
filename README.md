@@ -8,7 +8,3 @@
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-<be>
-  
-<h2>Github Stats</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiacurri" />
